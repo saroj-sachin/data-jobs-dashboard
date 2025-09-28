@@ -26,6 +26,17 @@ You can find the file for the dashboard here: [`data_jobs_dashboard.pbix`](data_
     -   **Slicers:** To dynamically filter the report by Job Title.
     -   **Buttons & Bookmarks:** To create a seamless navigation experience.
     -   **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
+
+## Dashboard Overview  
+*This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.*  
+
+### Page 1: High-Level Market View  
+<img src="/Screenshots/dashboard_1.png" width="598" height="336">  
+This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.  
+
+### Page 2: Job Title Drill Through  
+<img src="/Screenshots/dashboard_2.png" width="598" height="336">  
+This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.  
  
 ## Conclusion
 This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis.  
