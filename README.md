@@ -20,4 +20,16 @@ Explore the full details in the [Dashboard V1 README](/Dashboard_V1/README.md)
 
 This modern, single-page dashboard features a unique dual-metric analysis, allowing users to toggle charts to view top skills and jobs by either market demand (Job Count) or compensation (Median Yearly Salary). It serves as a strategic tool for job seekers to identify skill gaps and for recruiters to benchmark salaries and validate job descriptions.
 
-Explore the full details in the [Dashboard_V2 README](/Dashboard_V2/README.md)
+Explore the full details in the [Dashboard V2 README](/Dashboard_V2/README.md)
+
+
+## Key Skill Utilized
+
+- **Data Modeling (Star Schema)**
+- **Data Transformation (ETL) with Power Query**
+- **DAX Fundamentals (Measures & Calculated Columns)**
+- **KPI & Metric Formulation**
+- **Advanced Data Visualization**
+- **Dashboard Design & Storytelling**
+- **Interactive Reporting (Slicers, Bookmarks, Drill-Through)**
+- **Report Performance Optimization**
