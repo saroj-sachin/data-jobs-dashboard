@@ -1,7 +1,7 @@
 # Data Jobs Dashboard V2 in Power BI  
 An interactive Power BI dashboard designed to provide a comprehensive analysis of the data job market. This project uses a dataset of nearly 480,000 job postings to uncover key trends in job titles, in-demand skills, and salary benchmarks.
 
-<img src="/Dashboard V2/Screenshots/dashboard_v2_overview.gif">  
+<img src="/Dashboard_V2/Screenshots/dashboard_v2_overview.gif">  
 
 
 ## 🚀 The Goal
