@@ -23,7 +23,7 @@ The primary goal of this dashboard is to act as a strategic tool for both **job 
 
 This dashboard is built to serve two key audiences in the data industry:
 
-### For Job Seekers 👩‍💻
+### For Job Seekers
 
 This tool empowers you to make data-driven decisions in your job search.
 
@@ -47,19 +47,19 @@ This dashboard provides a clear view of the competitive landscape, enabling you 
 
 This project put key Power BI features into practice. Here's what we mastered:
 
-* **🎨 Dashboard Design:** Crafting an intuitive and visually appealing report layout.
-* **⚙️ Power Query ETL:** Performing data cleaning, shaping, and transformation.
-* **🔗 Data Modeling:** Building efficient data models with relationships (Star Schema principles).
-* **🧮 DAX Fundamentals:** Creating calculations and aggregations to derive key insights.
-* **📊 Visualizations Utilized:**
-    * **📈 Core Charts:** Column, Bar, Line, and Area charts for comparisons and trends.
-    * **🗺️ Map Charts:** For displaying geospatial data.
-    * **🔢 Cards:** To highlight key performance indicators.
-    * **📋 Tables:** For presenting detailed, tabular information.
-    * **🎨 Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
-* **🖱️ Interactive Features:**
-    * **🎚️ Slicers:** Enabling dynamic, user-driven data filtering.
-    * **🔘 Buttons & Bookmarks:** For streamlined navigation and managing report views (including Drill-Through).
+* **Dashboard Design:** Crafting an intuitive and visually appealing report layout.
+* **Power Query ETL:** Performing data cleaning, shaping, and transformation.
+* **Data Modeling:** Building efficient data models with relationships (Star Schema principles).
+* **DAX Fundamentals:** Creating calculations and aggregations to derive key insights.
+* **Visualizations Utilized:**
+    * **Core Charts:** Column, Bar, Line, and Area charts for comparisons and trends.
+    * **Map Charts:** For displaying geospatial data.
+    * **Cards:** To highlight key performance indicators.
+    * **Tables:** For presenting detailed, tabular information.
+    * **Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
+* **Interactive Features:**
+    * **Slicers:** Enabling dynamic, user-driven data filtering.
+    * **Buttons & Bookmarks:** For streamlined navigation and managing report views (including Drill-Through).
  
 ---
  
