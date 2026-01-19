@@ -1,4 +1,4 @@
-# Interactive Data Jobs Dashboard in Power BI
+# Interactive Data Jobs Dashboard
 
 <img src="/Dashboard_V1/Screenshots/dashboard_overview.gif" height="500">
 
